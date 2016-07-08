@@ -14,9 +14,9 @@ class FASTAFile (object):
             try:
                 self.fp = open(filename, 'r')
             except IOError:
-                if filename == "t":
+                if filename.lower() == "t":
                     self.fp = open('../data/test_data.txt')
-                elif filename == "f":
+                elif filename.lower() == "f":
                     self.fp = open('../data/coding_challenge_data_set.txt')
                 
                 else:
