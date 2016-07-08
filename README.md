@@ -51,7 +51,7 @@ I chose not to use certain libraries such as SeqIO, Numpy, Pandas (etc) in my co
 
 ##Future
 
-I wanted to be respectful of the time constraint, but in the future, I would like to modify this project in order to include a more complex (possibly web) user interface that would reflect enhancements to the algorithm that would support important details such as overlap specificty adjustments, etc. 
+I wanted to be respectful of the time constraint, but in the future, I would like to modify this project in order to include an enhanced (possibly web) user interface that would reflect enhancements to the algorithm that would support important details such as overlap specificty adjustments, etc. 
 
 #Included
 
